@@ -1,3 +1,2 @@
 Hello world!
 My name is xiaoming
-My age is 12 years old
